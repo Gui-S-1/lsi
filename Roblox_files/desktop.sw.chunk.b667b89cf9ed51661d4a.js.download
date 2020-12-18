@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{1087:function(e,o,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0});var w=n(1485);window.jQuery=w,window.$=w,n(1637);var d=n(1636);window.XsollaSupportWidget=d;var i=function(e){w(document).ready(e)},t=i;o.ɵ0=t,o.default=i}}]);
+//# sourceMappingURL=https://cdn3.xsolla.com/paystation3-split/scripts/desktop.sw.chunk.b667b89cf9ed51661d4a.js.map
